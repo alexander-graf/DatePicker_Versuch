@@ -8,3 +8,4 @@ eframe = "0.22.0"
 egui = "0.22.0"
 egui_extras = { version = "0.22.0", features = ["datepicker"] }
 chrono = "0.4.26"
+rusqlite = "0.29.0"
